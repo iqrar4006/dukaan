@@ -92,8 +92,8 @@ const Dashboard_amount = () => {
                             </div>
                         </div>
 
-                        <div className='flex justify-center items-center flex-col 2xl:flex-row w-full h-[60%]'>
-                            <div className='font-bold sm:text-2xl md:text-3xl text-center'>
+                        <div className='flex  justify-center sm:justify-start items-center flex-col 2xl:flex-row w-full h-[60%]'>
+                            <div className='font-bold sm:text-2xl md:text-3xl '>
                                 ₹23,92,312.19
                             </div>
                         </div>
